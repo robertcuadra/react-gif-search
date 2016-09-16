@@ -1,0 +1,3 @@
+rootProject.name = 'ReactGifSearch'
+
+include ':app'
